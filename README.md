@@ -19,7 +19,7 @@ Practice makes perfect. We’re getting you ready for all the fun projects in th
 > Make sure to *always* update the `app.properties` file within the project codebase to reflect the choice of project as well as details of the team Rep and all the members working to build it. 
 
 
-### 01 - Phonie: Identify the telecoms carrier from a phone number
+### 01 - Phonie: Identify the telecoms carrier from a phone number (PROJECT OF CHOICE)
 
 #### Scenario
 
