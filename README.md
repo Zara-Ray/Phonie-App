@@ -35,7 +35,7 @@ After typing the phone number into the form field, the UI indicates that it is a
 * Support +XYZ country codes (e.g +234 for Nigeria) - Still detect the carrier even if the user prefixed the number with their +XYZ country code
 * Show auto-completion - Show suggestions as the user starts typing the phone number. E.g once they type 080, show them that 080*3* and 080*6* and other possible *matching* variants of the carrier
 
-## Live app: https://zara-ray.github.io/Phonie-App/
+### Live app: https://zara-ray.github.io/Phonie-App/
 > ### 02- Redactr - Scramble some words from a body of text content
 
 > #### Scenario
